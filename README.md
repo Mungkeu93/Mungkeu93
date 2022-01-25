@@ -31,7 +31,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mungkeu93)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mungkeu93&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mungkeu93&count_private=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=Mungkeu93)](https://solved.ac/Mungkeu93)
 
