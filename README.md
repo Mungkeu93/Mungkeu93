@@ -33,11 +33,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mungkeu93&layout=compact&theme=tokyonight)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=Mungkeu93)](https://solved.ac/Mungkeu93)
 
----
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mungkeu93)](https://solved.ac/mungkeu93)
-
 <!--
 **Mungkeu93/Mungkeu93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
